@@ -1,0 +1,22 @@
+{
+  "name": "relearningjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChapmanCarin/reLearningJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChapmanCarin/reLearningJS/issues"
+  },
+  "homepage": "https://github.com/ChapmanCarin/reLearningJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
